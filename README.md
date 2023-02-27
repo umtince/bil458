@@ -9,3 +9,16 @@ Change current directory to bil458
 Open up CMD or Powershell and enter
 
 `python hw1.py`
+
+## Example
+
+```
+Enter a number: 6
+
+     *
+    **
+   ***
+  ****
+ *****
+******
+``` 
